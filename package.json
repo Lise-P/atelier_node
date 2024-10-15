@@ -1,0 +1,17 @@
+{
+  "name": "atelier",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "wilders.js",
+  "scripts": {
+        "start": "node wilders.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5"
+  }
+}
